@@ -10,3 +10,19 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+This is a simple React.js Post Manager Application.
+It displays and fetchs posts using GET Api (useEffect React Hook). It creates new posts using POST Api via Post Form.
+
+## Tech Stack
+1. React.js
+2. TailwindCSS (Styling)
+3. Axios (APIs)
+
+## Setup
+1. git clone https://github.com/aamna12/Post-Manager
+2. cd Post-Manager
+3. npm install
+4. npm start
+
+   
